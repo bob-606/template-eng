@@ -19,7 +19,7 @@
     
     Thank you for using our platform.  
     
-    {NAME} Bae-sang (NB! YOURS SINCERELY equivalent)
+    {INSERT NAME} Bae-sang (NB! YOURS SINCERELY equivalent)
 
 ---
 
@@ -36,7 +36,7 @@
     
     Thank you for using our platform.  
     
-    {NAME} Bae-sang (NB! YOURS SINCERELY equivalent)
+    {INSERT NAME} Bae-sang (NB! YOURS SINCERELY equivalent)
 
 ---
 
@@ -59,7 +59,7 @@
     
     Thank you for using our platform.  
     
-    {NAME} Bae-sang (NB! YOURS SINCERELY equivalent)
+    {INSERT NAME} Bae-sang (NB! YOURS SINCERELY equivalent)
 
 ---
 
@@ -83,7 +83,7 @@
     
     Thank you for using our platform.  
     
-    {NAME} Bae-sang  (NB! YOURS SINCERELY equivalent)
+    {INSERT NAME} Bae-sang  (NB! YOURS SINCERELY equivalent)
 
 ---
 
@@ -106,6 +106,6 @@
     
     Thank you for using our platform.  
     
-    {NAME} Bae-sang  (NB! YOURS SINCERELY equivalent)
+    {INSERT NAME} Bae-sang  (NB! YOURS SINCERELY equivalent)
 
     
